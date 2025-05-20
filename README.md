@@ -28,21 +28,21 @@ C++ program which reads orders from a file and the initial storage contents, dis
 
 #### Clients ("Clients.txt")
 
-![alt text](clienti.png)
+![alt text](images/clienti.png)
 
 #### Products ("Produse.txt")
 
-![alt text](produse.png)
+![alt text](images/produse.png)
 
 ### Output files :
 
 #### Orders ("Output_comenzi.txt")
 
-![alt text](comenzi.png)
+![alt text](images/comenzi.png)
 
 ### Storage ("Output_stoc_ramas.txt")
 
-![alt text](stoc_ramas.png)
+![alt text](images/stoc_ramas.png)
 
 </section>
 
